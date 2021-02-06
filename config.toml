@@ -1,0 +1,4 @@
+baseURL = "https://music-pianobee45.vercel.app"
+languageCode = "en-us"
+title = "All Piano Sheet Music Free"
+theme = "hugo-theme-minos"
